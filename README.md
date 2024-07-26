@@ -1,8 +1,8 @@
 #
 Olá, eu sou Marcos Almeida👋
 
-- 🔭 Sou formado em Gestão da Tecnologia da Informação e faço pós em Análise e Desenvolvimento de Programas;
-- 🧑🏽‍💻 Foco em atuar com Front-End;
+- 🔭 Sou formado em Gestão da Tecnologia da Informação e Pós em Gestão de Projetos;
+- 🧑🏽‍💻 Foco em atuar com Front-End e UX Design;
 - 🌱 Atualmente estou estudando JavaScript;
 - 😄 Pronouns: Ele/Dele.
 
